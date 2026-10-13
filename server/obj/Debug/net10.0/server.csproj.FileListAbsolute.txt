@@ -1,0 +1,15 @@
+C:\Users\vadim\Documents\Lab4_ISRPO_Gilenko\server\bin\Debug\net10.0\server.exe
+C:\Users\vadim\Documents\Lab4_ISRPO_Gilenko\server\bin\Debug\net10.0\server.deps.json
+C:\Users\vadim\Documents\Lab4_ISRPO_Gilenko\server\bin\Debug\net10.0\server.runtimeconfig.json
+C:\Users\vadim\Documents\Lab4_ISRPO_Gilenko\server\bin\Debug\net10.0\server.dll
+C:\Users\vadim\Documents\Lab4_ISRPO_Gilenko\server\bin\Debug\net10.0\server.pdb
+C:\Users\vadim\Documents\Lab4_ISRPO_Gilenko\server\obj\Debug\net10.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\Documents\Lab4_ISRPO_Gilenko\server\obj\Debug\net10.0\server.AssemblyInfoInputs.cache
+C:\Users\vadim\Documents\Lab4_ISRPO_Gilenko\server\obj\Debug\net10.0\server.AssemblyInfo.cs
+C:\Users\vadim\Documents\Lab4_ISRPO_Gilenko\server\obj\Debug\net10.0\server.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Documents\Lab4_ISRPO_Gilenko\server\obj\Debug\net10.0\server.sourcelink.json
+C:\Users\vadim\Documents\Lab4_ISRPO_Gilenko\server\obj\Debug\net10.0\server.dll
+C:\Users\vadim\Documents\Lab4_ISRPO_Gilenko\server\obj\Debug\net10.0\refint\server.dll
+C:\Users\vadim\Documents\Lab4_ISRPO_Gilenko\server\obj\Debug\net10.0\server.pdb
+C:\Users\vadim\Documents\Lab4_ISRPO_Gilenko\server\obj\Debug\net10.0\server.genruntimeconfig.cache
+C:\Users\vadim\Documents\Lab4_ISRPO_Gilenko\server\obj\Debug\net10.0\ref\server.dll
