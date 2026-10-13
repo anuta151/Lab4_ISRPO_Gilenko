@@ -1,5 +1,11 @@
-﻿Console.WriteLine("=== Лабораторная работа №4 ===");
+﻿Console.WriteLine(" Лабораторная работа №4 ");
 Console.WriteLine("Добро пожаловать!");
 Console.WriteLine("ФИО: Гиленко Анна");
 Console.WriteLine("Группа: ИСП-241");
 Console.WriteLine($"Дата и время: {DateTime.Now}");
+Console.WriteLine();
+Console.WriteLine("Меню:");
+Console.WriteLine("1 — Показать ФИО");
+Console.WriteLine("2 — Показать группу");
+Console.WriteLine("3 — Показать дату");
+Console.WriteLine("4 — Выход");
